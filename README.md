@@ -28,7 +28,6 @@ This repository provides the official implementation of the paper *"Generative A
 ## Repository Structure
 
 ```plaintext
-JSA_Rep/
 │── README.md            # Documentation           
 │── train_sd.sh          # Shell script for Stable Diffusion training
 │── data_prep_SD.ipynb   # Dataset preparation for Stable Diffusion
@@ -52,8 +51,8 @@ JSA_Rep/
 ### Using conda
 
 ```bash
-conda create -n jsa_rep python=3.8
-conda activate jsa_rep
+conda create -n env python=3.8
+conda activate env
 pip install -r requirements.txt
 ```
 
