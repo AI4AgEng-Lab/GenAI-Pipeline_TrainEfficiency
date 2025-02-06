@@ -28,6 +28,7 @@ This repository provides the official implementation of the paper *"Generative A
 ## Repository Structure
 
 ```plaintext
+GenAI-Pipeline_TrainEfficiency/
 │── README.md            # Documentation           
 │── train_sd.sh          # Shell script for Stable Diffusion training
 │── data_prep_SD.ipynb   # Dataset preparation for Stable Diffusion
