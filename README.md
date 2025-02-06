@@ -1,7 +1,7 @@
 # Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems
 
 <div align="center">
-  <img src="assets/pipeline_jsa_p.png" alt="Overview of the synthetic weed generation pipeline for Increasing Training Efficiency in Intelligent Weed Control Systems">
+  <img src="assets/pipeline_jsa_f.png" alt="Overview of the synthetic weed generation pipeline for Increasing Training Efficiency in Intelligent Weed Control Systems">
   <p><em>Overview of the Synthetic Weed Generation Pipeline for Increasing Training Efficiency in Intelligent Weed Control Systems</em></p>
 </div>
 
