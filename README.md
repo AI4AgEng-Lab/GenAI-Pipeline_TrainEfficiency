@@ -137,9 +137,12 @@ This script trains YOLO models on multiple datasets (sug_real, syn80_real20, etc
 
 
 ```bibtex
-@article{modak2024generative,
-  title={Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems},
+@article{modak2025generative,
+  title={Generative AI-based pipeline architecture for increasing training efficiency in intelligent weed control systems},
   author={Modak, Sourav and Stein, Anthony},
-  journal={arXiv preprint arXiv:2411.00548},
-  year={2024}
+  journal={Journal of Systems Architecture},
+  volume={167},
+  pages={103464},
+  year={2025},
+  publisher={Elsevier}
 }
