@@ -1,4 +1,7 @@
 # Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems
+[![Research Only](https://img.shields.io/badge/Purpose-Research%20Only-orange.svg)](#)
+
+> **Notice:** Not for production use — Research purposes only.
 
 <div align="center">
   <img src="assets/pipeline_jsa_f.png" alt="Overview of the synthetic weed generation pipeline for Increasing Training Efficiency in Intelligent Weed Control Systems">
